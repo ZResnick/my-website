@@ -20,7 +20,7 @@ export default class Resume extends Component {
           <div>
             <a
               className="buttons resumeDownloadBtn"
-              href="/images/Zach.Resnick.Resume.png"
+              href="https://i.imgur.com/phDznj9.png"
               download="Zach.Resnick.Resume.png"
             >
               DOWNLOAD MY RESUME
@@ -31,7 +31,7 @@ export default class Resume extends Component {
           <img
             className="resumeImg"
             alt="My Resume"
-            src="/images/Zach.Resnick.Resume.png"
+            src="https://i.imgur.com/phDznj9.png"
           ></img>
         </div>
       </div>
